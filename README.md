@@ -1,3 +1,3 @@
 # web-scraping
-# this program get  information from udacity site nd then store picture of succuss student 
-# and also make a DataFrame 
+## this program getting information from udacity site and then store pictures of success  students 
+#### and also making a DataFrame 
